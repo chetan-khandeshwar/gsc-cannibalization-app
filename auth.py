@@ -1,11 +1,3 @@
-
-Notice the triple backticks (` ``` `).
-
-Those backticks are NOT Python code and will cause exactly the error shown in your logs. :contentReference[oaicite:1]{index=1}
-
-Your entire `auth.py` should be EXACTLY this and nothing else:
-
-```python
 import streamlit as st
 
 from streamlit_oauth import OAuth2Component
