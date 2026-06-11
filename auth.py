@@ -7,7 +7,7 @@ SCOPES = [
 ]
 
 REDIRECT_URI = (
-    "https://gsc-cannibalization-app-7mi43bptxgtjaajeeanxhp.streamlit.app"
+    "https://gsc-cannibalization-app-7mi43bptxgtjaajeeanxhp.streamlit.app/component/streamlit_oauth.authorize_button/index.html"
 )
 
 
