@@ -27,4 +27,3 @@ result = oauth2.authorize_button(
 )
 
 return result
-```
